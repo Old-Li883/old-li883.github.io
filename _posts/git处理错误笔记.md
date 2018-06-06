@@ -1,6 +1,6 @@
 ---
 
-layout:post
+layout: post
 
 title: git处理错误笔记
 
