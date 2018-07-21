@@ -1,7 +1,7 @@
 ---
 layout: post
 title: session\cookie
-date: 2018.7.21
+date: 2018-7-21
 tags: weblearning
 ---
 
