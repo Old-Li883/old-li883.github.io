@@ -1,3 +1,10 @@
+---
+layout: post
+title: session\cookie
+date: 2018.7.21
+tags: weblearning
+---
+
 # Session、cookie学习
 
 ## 什么是Session
